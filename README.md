@@ -76,12 +76,6 @@ traffic-sign-detection-cnn/
 - Parul Taley (0101CS191076)
 - Sakshi Badole (0101CS191103)
 
-## Acknowledgments
-We express our gratitude to our project guides, Dr. Sanjay Silakari and Dr. Shikha Agrawal, and the Head of the Department, Prof. Uday Chourasia, at UIT RGPV, Bhopal, for their guidance and support.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## References
 - Python Software Foundation: https://www.python.org
 - TensorFlow: https://www.tensorflow.org
